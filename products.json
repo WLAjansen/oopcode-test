@@ -1,0 +1,38 @@
+[
+  {
+    "code": 1,
+    "class":"Bullit",
+    "title": "Bullit Energy Drink",
+    "image_url": "https://static.ah.nl/image-optimization/static/product/AHI_43545239353730363633_1_LowRes_JPG.JPG?options=399,q85",
+    "price": 0.75,
+    "description": "Bullit Sugarfree geeft je de energie die je nodig hebt, maar dan zonder suiker"
+  },
+  {
+    "code": 2,
+    "title": "7 Energy Drink",
+    "image_url": "https://www.supermarktaanbiedingen.com/public/images/product/2017/39/0-145098blk-7-energy-drink-zero-sugar-250ml.jpg",
+    "price": 0.55,
+    "description": "Vitamine B12 draagt bij tot een normaal energieleverend metabolisme."
+  },
+  {
+    "code": 3,
+    "title": "Monster Energy Drink",
+    "image_url": "https://products3.imgix.drizly.com/ci-monster-energy-drink-a44417a571bd8be7.jpeg?auto=format%2Ccompress&fm=jpeg&q=20",
+    "price": 1.25,
+    "description": "Monster Energy is een koolzuurhoudende energiedrank met toegevoegde vitamines."
+  },
+  {
+    "code": 4,
+    "title": "5 Hour Energy Berry",
+    "image_url": "https://products3.imgix.drizly.com/ci-5-hour-energy-berry-28525d39d20f433e.jpeg?auto=format%2Ccompress&fm=jpeg&q=20",
+    "price": 2.55,
+    "description": "Druif Extra Kracht 5-uur ENERGIE Schot bevat nul suiker, vier calorieën, en dat zomertijd smaak."
+  },
+  {
+    "code": 5,
+    "title": "Overkill Energy Drink",
+    "image_url": "http://images.squarespace-cdn.com/content/v1/57be0c0d9f74560cca2c40b3/1544535944235-D349KR51KG97TVKJSXOF/ke17ZwdGBToddI8pDm48kNiEM88mrzHRsd1mQ3bxVct7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0s0XaMNjCqAzRibjnE_wBlkZ2axuMlPfqFLWy-3Tjp4nKScCHg1XF4aLsQJlo6oYbA/overkillwebshop.jpg",
+    "price": 5.55,
+    "description": "De gevaarlijkste energy drank vekrijgbaar, voor de echte durvers."
+  }
+]
