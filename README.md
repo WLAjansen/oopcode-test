@@ -2,6 +2,8 @@
 
 De opdracht komt na deze les in Magister te staan. Je krijgt er een cijfer voor.
 
+Link: http://26725.hosts2.ma-cloud.nl/bewijzenmap/periode2.1/bap/oopcode/
+
 ---
 #### Werkwijze
 * Eerst clone je de opdracht repository en zorg je dat je de `index.php` kunt bekijken via je localhost / webserver
